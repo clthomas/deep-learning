@@ -1,0 +1,11 @@
+{
+ "display_name": "Python (udacity)", 
+ "language": "python", 
+ "argv": [
+  "/Users/hgardner/miniconda2/envs/dlnd/bin/python", 
+  "-m", 
+  "ipykernel", 
+  "-f", 
+  "{connection_file}"
+ ]
+}

@@ -1,0 +1,6 @@
+name: translate
+dependencies:
+  - python=3
+  - numpy
+  - pip:
+    - tensorflow-gpu=1.1
